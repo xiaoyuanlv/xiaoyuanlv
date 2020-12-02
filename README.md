@@ -2,11 +2,11 @@
 
 - 💡 Name ... Seint Seint Thu @ 吕圆圆 
 - 💬 Call me ... Xiao Yuan ( Lv ) 
-- 🔭 I’m currently working on ... My Portfolio
+- 🔭 I’m currently working on ... Creative Project
 - 🌱 I’m currently learning ... Flutter, React Native, etc...
 - 🙌 I’m looking to collaborate on ... Creative Projects
-- 🤔 I’m looking for help with ... New Job
-- 💬 Ask me about ... POS
+- 🤔 I’m looking for help with ... New
+- 💬 Ask me about ... Android Dev
 - 🏡 I'm working from ... Home
 - 📫 How to reach me: ... https://iam-xiaoyuanlv.web.app
 - ⚡ Fun fact: ... Nothing is permanent
