@@ -11,7 +11,7 @@
 - 📫 How to reach me: ... https://iam-xiaoyuanlv.web.app
 - ⚡ Fun fact: ... Nothing is permanent
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
