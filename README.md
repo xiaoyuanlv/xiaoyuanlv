@@ -1,6 +1,4 @@
-[![Header](https://iam-xiaoyuanlv.web.app/assets/img/xiaoyuanlv.jpeg "Header")](https://iam-xiaoyuanlv.web.app/)
-
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💡 Name ... Seint Seint Thu @ 吕圆圆 
 - 💬 Call me ... Xiao Yuan ( Lv ) 
