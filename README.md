@@ -2,14 +2,13 @@
 
 - 💡 Name ... Seint Seint Thu @ 吕圆圆 
 - 💬 Call me ... Xiao Yuan ( Lv ) 
-- 🔭 I’m currently on ... #Challenge21
-- 🌱 I’m currently learning ... Flutter, React Native, etc...
+- 🔭 I’m currently on ... #21daysChallenge
+- 🌱 I’m currently learning ... Android, SwiftUI, Flutter, React, etc...
 - 🙌 I’m looking to collaborate on ... Creative Projects
 - 🎯 2021 Resolution ... 📱🧘🦋🌻🌱
 - 💬 Ask me about ... Android App Development
 - 🏡 I'm working from ... Home
 - 📫 How to reach me: ... https://xiaoyuanlv.com
-- 🚀 Check Creativity on ... https://www.facebook.com/xiaoyuanlv.creatives
 - ⚡ Fun fact: ... Nothing is permanent
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
