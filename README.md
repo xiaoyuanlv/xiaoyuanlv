@@ -9,6 +9,7 @@
 - 💬 Ask me about ... Android App Development
 - 🏡 I'm working from ... Home
 - 📫 How to reach me: ... https://xiaoyuanlv.com
+- 📱 Google Play Store: ... https://play.google.com/store/apps/dev?id=8040842865728462080
 - ⚡ Fun fact: ... Nothing is permanent
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
