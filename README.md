@@ -2,7 +2,7 @@
 
 - 💡 Name ... Seint Seint Thu @ 吕圆圆 
 - 💬 Call me ... Xiao Yuan ( Lv ) 
-- 🔭 I’m currently on ... #21daysChallenge
+- 🔭 I’m currently on ... 31 Jan Creative Projects
 - 🌱 I’m currently learning ... Android, SwiftUI, Flutter, React, etc...
 - 🙌 I’m looking to collaborate on ... Creative Projects
 - 🎯 2021 Resolution ... 📱🧘🦋🌻🌱
