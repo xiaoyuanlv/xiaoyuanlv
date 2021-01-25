@@ -1,4 +1,4 @@
-# Hi there <img src="https://i.pinimg.com/originals/c5/97/1e/c5971e1f8181a1d85a35f47456af4db2.gif" width="100px">
+# Hi there <img src="https://i.pinimg.com/originals/c5/97/1e/c5971e1f8181a1d85a35f47456af4db2.gif" width="77px">
 
 - 💡 Name ... Seint Seint Thu @ 吕圆圆 
 - 💬 Call me ... Xiao Yuan ( Lv ) 
