@@ -1,16 +1,14 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://i.pinimg.com/originals/59/83/68/59836845467e5de3053bf11b48f4b2aa.gif" width="30px">
 
 - 💡 Name ... Seint Seint Thu @ 吕圆圆 
 - 💬 Call me ... Xiao Yuan ( Lv ) 
-- 🔭 I’m currently on ... 31 Jan Creative Projects
+- 🔭 I’m currently on ... Creative Projects
 - 🌱 I’m currently learning ... Android, SwiftUI, Flutter, React, etc...
 - 🙌 I’m looking to collaborate on ... Creative Projects
 - 🎯 2021 Resolution ... 📱🧘🦋🌻🌱
 - 💬 Ask me about ... Android App Development
 - 🏡 I'm working from ... Home
 - 📫 How to reach me: ... https://xiaoyuanlv.com
-- 📱 Google Play Store: ... https://play.google.com/store/apps/dev?id=8040842865728462080
-- ⚡ Fun fact: ... Nothing is permanent
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
