@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Android App Development
 - 💻 Day Time ... App Developer At Super Seven Stars
 - 📱 Night Time ... XYLV Creatives
-- 📫 How to reach me: ... https://xiaoyuanlv.com
+- 📫 How to reach me: ... https://linktr.ee/xiaoyuanlv
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
