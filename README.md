@@ -7,7 +7,8 @@
 - 🙌 I’m looking to collaborate on ... Creative Projects
 - 🎯 2021 Resolution ... 📱🧘🦋🌻🌱
 - 💬 Ask me about ... Android App Development
-- 🏡 I'm working from ... Home
+- 💻 Day Time ... App Developer At Super Seven Stars
+- 📱 Night Time ... XYLV Creatives
 - 📫 How to reach me: ... https://xiaoyuanlv.com
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
