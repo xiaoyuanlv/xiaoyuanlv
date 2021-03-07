@@ -3,7 +3,7 @@
 - 💡 Name ... Seint Seint Thu @ 吕圆圆 
 - 💬 Call me ... Xiao Yuan ( Lv ) 
 - 🔭 I’m currently on ... Creative Projects
-- 🌱 I’m currently learning ... Android, SwiftUI, Flutter, React, etc...
+- 🌱 I’m currently learning ... Flutter, React
 - 🙌 I’m looking to collaborate on ... Creative Projects
 - 🎯 2021 Resolution ... 📱🧘🦋🌻🌱
 - 💬 Ask me about ... Android App Development
